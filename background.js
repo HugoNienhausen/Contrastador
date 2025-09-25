@@ -3,8 +3,8 @@ const CONTEXT_MENU_ID = "searchInMyMedia";
 
 // Configuración de Google API (valores predeterminados seguros)
 const GOOGLE_API_CONFIG = {
-  apiKey: "AIzaSyA4jkOe4vbhj_mIz4fBI8whoSvXtHmTZ8U",
-  searchEngineId: "d13630a720a12460b"
+  apiKey: "XXXX",
+  searchEngineId: "XXXXX"
 };
 
 // Crear menú contextual al instalar la extensión
